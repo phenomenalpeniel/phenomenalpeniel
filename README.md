@@ -2,7 +2,9 @@
 
 ### Data Analyst | Graphic Designer | Content Creator | Entrepreneur
 
-Welcome to my GitHub profile! I'm passionate about using data, creativity, and technology to solve problems, tell stories, and create value.
+Welcome to my GitHub profile!
+
+I am passionate about using data, creativity, and technology to help businesses, organizations and even individuals to solve their problems, tell stories, and create value.
 
 ---
 
@@ -26,7 +28,9 @@ Welcome to my GitHub profile! I'm passionate about using data, creativity, and t
 
 ---
 
-🌱 Currently, I am learning:
+🌱 Currently, 
+
+I am learning:
 
 * SQL
 * Power BI
@@ -34,6 +38,13 @@ Welcome to my GitHub profile! I'm passionate about using data, creativity, and t
 * Python for Data Analytics
 * Git & GitHub
 
+and Vibecoding
+
+* Trackpos - A SaaS platform that helps POS users track sales, transactions, and performance in real time through a centralized dashboard for better visibility and decision-making.
+
+* Duplify - A SaaS KPI and performance tracking platform that helps network marketing (MLM) teams and POS users duplicate success by tracking activities, sales, and team performance in real time through structured dashboards.
+
+* StoryFlow- An automated SaaS writing platform that helps screenwriters around the world easily create and structure scripts in their own languages, making storytelling smoother through guided flow, organization tools, and multilingual support.
 ---
 
 ## 🛠️ Skills & Tools
