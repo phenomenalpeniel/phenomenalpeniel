@@ -20,6 +20,10 @@ Welcome to my GitHub profile! I'm passionate about using data, creativity, and t
 
 🎵 I sing very well and i am passionate about using music to inspire positive change
 
+## 🤓 Fun fact
+
+💡 I AM HIGHLY CREATIVE.
+
 🌱 Currently, I am learning:
 
 * SQL
