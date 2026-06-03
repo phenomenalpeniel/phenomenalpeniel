@@ -24,6 +24,8 @@ Welcome to my GitHub profile! I'm passionate about using data, creativity, and t
 
 💡 I AM HIGHLY CREATIVE.
 
+---
+
 🌱 Currently, I am learning:
 
 * SQL
