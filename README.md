@@ -9,7 +9,7 @@ I am passionate about using data, creativity, and technology to help businesses,
 
 ## 🚀 About Me
 
-🎓 B.Sc. Microbiology Graduate
+🎓 B.Sc. Microbiology
 
 🎓 B.Sc. Business Administration (in view)
 
@@ -94,8 +94,19 @@ and Vibecoding
 
 ## 📂 Featured Projects
 
-### 📊 Data Analytics Portfolio
+### 📊 Data ENTRY Portfolio
+Explore my data entry projects.
 
+**Projects include:**
+
+* CSV Data cleaning
+* CRM Migration
+* Web search list (Web Scraping)
+* Invoice Entry
+* Product Catalog
+* Audio Transcription
+
+### 📊 Data Analytics Portfolio
 Explore my analytics projects, dashboards, and business insights.
 
 **Projects include:**
