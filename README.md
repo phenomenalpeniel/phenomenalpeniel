@@ -1,7 +1,6 @@
 ## Hi 👋, I'm Peniel-victory Silas
 
-### Data Analyst | Graphic Designer | Content Creator | Entrepreneur
-
+### Data Entry/Analyst | Graphic Design 
 Welcome to my GitHub profile!
 
 I am passionate about using data, creativity, and technology to help businesses, organizations and even individuals to solve their problems, tell stories, and create value.
@@ -48,6 +47,17 @@ and Vibecoding
 ---
 
 ## 🛠️ Skills & Tools
+
+### Data Entry
+* Typing speed
+* Understanding of basic software
+* Communication skills
+* Attention to detail
+* Organization & Time management
+* Research and data collection
+* Database structure & Accuracy
+* Teamwork & Focus
+  
 
 ### Data Analytics
 
