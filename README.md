@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peniel-victory-silas-022237179)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achigilipeniel24@gmail.com)
-[![Facebook](https://img.shields.io/badge/Faceook-Find%20Me%20On%20Facebook-000000?style=for-the-badge&logo=notion&logoColor=white)]((https://www.facebook.com/profile.php?id=61573708205452))
 
 </div>
 
@@ -107,7 +106,7 @@ When you hire me, you get someone who understands data from the moment it's ente
 
 <div align="center">
 
-![Peniel-victory's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=calm&hide_border=true&title_color=0A66C2&icon_color=F2C811)
+![Peniel-victory's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phenomenalpeniel&show_icons=true&theme=calm&hide_border=true&title_color=0A66C2&icon_color=F2C811)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PENIEL-VICTROY_SILAS&layout=compact&theme=calm&hide_border=true&title_color=0A66C2)
 
