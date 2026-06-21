@@ -108,7 +108,7 @@ When you hire me, you get someone who understands data from the moment it's ente
 
 ![Peniel-victory's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phenomenalpeniel&show_icons=true&theme=calm&hide_border=true&title_color=0A66C2&icon_color=F2C811)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PENIEL-VICTROY_SILAS&layout=compact&theme=calm&hide_border=true&title_color=0A66C2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phenomenalpeniel&layout=compact&theme=calm&hide_border=true&title_color=0A66C2)
 
 </div>
 
