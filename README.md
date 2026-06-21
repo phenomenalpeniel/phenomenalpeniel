@@ -6,9 +6,9 @@
 
 *I collect it, I analyse it & I make it look good.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-000000?style=for-the-badge&logo=notion&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peniel-victory-silas-022237179)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achigilipeniel24@gmail.com)
+[![Facebook](https://img.shields.io/badge/Faceook-Find%20Me%20On%20Facebook-000000?style=for-the-badge&logo=notion&logoColor=white)]((https://www.facebook.com/profile.php?id=61573708205452))
 
 </div>
 
@@ -109,7 +109,7 @@ When you hire me, you get someone who understands data from the moment it's ente
 
 ![Peniel-victory's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=calm&hide_border=true&title_color=0A66C2&icon_color=F2C811)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=calm&hide_border=true&title_color=0A66C2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PENIEL-VICTROY_SILAS&layout=compact&theme=calm&hide_border=true&title_color=0A66C2)
 
 </div>
 
