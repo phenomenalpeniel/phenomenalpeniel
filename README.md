@@ -21,7 +21,7 @@ I'm a triple-threat professional who works across the full data and design pipel
 - 📊 **Entry-Level Data Analyst** — I dig into data to find the trends, patterns, and insights that drive smarter decisions.
 - 🎨 **Graphic Designer** — I turn those insights into visuals that are clear, compelling, and professionally presented.
 
-Most professionals hand you raw numbers or a pretty graphic. I deliver **the full picture** — from clean data to polished presentation.
+Most professionals hand you raw numbers or a pretty graphic. I deliver **the full picture**, from clean data to polished presentation.
 
 - 📍 Based in **Abuja, Nigeria**
 - 🌐 Open to **remote, or hybrid** opportunities
@@ -40,7 +40,7 @@ Most professionals hand you raw numbers or a pretty graphic. I deliver **the ful
 | **Data Validation** | Spotting and correcting errors before they become problems |
 | **Microsoft Excel** | Data input, formatting, deduplication, and organisation |
 | **Google Sheets** | Cloud-based data entry and real-time collaboration |
-| **Attention to Detail** | Nothing slips through — clean data in, clean data out |
+| **Attention to Detail** | Nothing slips through, its always clean data in, clean data out |
 
 ---
 
@@ -85,13 +85,13 @@ In most teams, data entry, analysis, and design are handled by separate people. 
 🎨  PRESENT    →   Clean, professional visual design
 ```
 
-When you hire me, you get someone who understands data from the moment it's entered to the moment it's presented — no gaps, no silos.
+When you hire me, you get someone who understands data from the moment it's entered to the moment it's presented, no gaps, no silos.
 
 ---
 
 ## 📂 Featured Projects
 
-> 🚧 Projects are being added — check back soon!
+> 🚧 Projects are being added, check back soon!
 
 | Project | Description | Tools Used |
 |---|---|---|
@@ -116,7 +116,7 @@ When you hire me, you get someone who understands data from the moment it's ente
 
 ## 🤝 Open to Opportunities
 
-I'm actively seeking roles in **data entry**, **data analysis**, **graphic design**, or any position where all three skills come together. If you're building a team that values accuracy, insight, and good communication — let's talk.
+I'm actively seeking roles in **data entry**, **data analysis**, **graphic design**, or any position where all three skills come together. If you're building a team that values accuracy, insight, and good communication, let's talk.
 
 <div align="center">
 
