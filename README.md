@@ -1,182 +1,130 @@
-## Hi 👋, I'm Peniel-victory Silas
+<div align="center">
 
-### Data Entry/Analyst | Graphic Design 
-Welcome to my GitHub profile!
+# 👋 Hello, I'm Peniel-victory Silas
 
-I am passionate about using data, creativity, and technology to help businesses, organizations and even individuals to solve their problems, tell stories, and create value.
+### Data Entry Specialist · Data Analyst · Graphic Designer
 
----
+*I collect it, I analyse it & I make it look good.*
 
-## 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-000000?style=for-the-badge&logo=notion&logoColor=white)](https://your-portfolio-link.com)
 
-🎓 B.Sc. Microbiology
-
-🎓 B.Sc. Business Administration (in view)
-
-📊 I am passionate about turning raw data into actionable insights
-
-🎨 I'm also a graphic Designer with experience in branding, marketing materials, and digital content
-
-✍️ Sometimes I write Contents, Screenplays, and do Voice-overs
-
-🎵 I sing very well and i am passionate about using music to inspire positive change
-
-## 🤓 Fun fact
-
-💡 I AM HIGHLY CREATIVE.
+</div>
 
 ---
 
-🌱 Currently, 
+## 🙋 About Me
 
-I am learning:
+I'm a triple-threat professional who works across the full data and design pipeline:
 
-* SQL
-* Power BI
-* Advanced Excel
-* Python for Data Analytics
-* Git & GitHub
+- 🗂️ **Data Entry Specialist** — I ensure data goes in right the first time. Accurate, organised, and validated.
+- 📊 **Entry-Level Data Analyst** — I dig into data to find the trends, patterns, and insights that drive smarter decisions.
+- 🎨 **Graphic Designer** — I turn those insights into visuals that are clear, compelling, and professionally presented.
 
-and Vibecoding
+Most professionals hand you raw numbers or a pretty graphic. I deliver **the full picture** — from clean data to polished presentation.
 
-* Trackpos - A SaaS platform that helps POS users track sales, transactions, and performance in real time through a centralized dashboard for better visibility and decision-making.
+- 📍 Based in **Abuja, Nigeria**
+- 🌐 Open to **remote, or hybrid** opportunities
+- 📈 Currently growing in **Python for data analysis**
+- 🤝 Open to collaborations, freelance work, and full-time roles
 
-* Duplify - A SaaS KPI and performance tracking platform that helps network marketing (MLM) teams and POS users duplicate success by tracking activities, sales, and team performance in real time through structured dashboards.
-
-* StoryFlow- An automated SaaS writing platform that helps screenwriters around the world easily create and structure scripts in their own languages, making storytelling smoother through guided flow, organization tools, and multilingual support.
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tools & Skills
 
-### Data Entry
-* Typing speed
-* Understanding of basic software
-* Communication skills
-* Attention to detail
-* Organization & Time management
-* Research and data collection
-* Database structure & Accuracy
-* Teamwork & Focus
-  
+### 🗂️ Data Entry
 
-### Data Analytics
+| Skill | Details |
+|---|---|
+| **Fast & Accurate Typing** | High-speed data entry with a strong focus on accuracy |
+| **Data Validation** | Spotting and correcting errors before they become problems |
+| **Microsoft Excel** | Data input, formatting, deduplication, and organisation |
+| **Google Sheets** | Cloud-based data entry and real-time collaboration |
+| **Attention to Detail** | Nothing slips through — clean data in, clean data out |
 
-* Microsoft Excel
-* Power BI
-* SQL
-* Data Cleaning
-* Data Visualization
-* Dashboard Creation
-* Business Reporting
+---
 
-### Design
+### 📊 Data Analysis
 
-* Canva
-* Brand Identity Design
-* Social Media Design
-* Marketing Materials
-* Presentation Design
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Professional Skills
+| Skill | What I Do With It |
+|---|---|
+| **Microsoft Excel** | PivotTables, VLOOKUP, dashboards, trend analysis |
+| **SQL** | Querying databases, joins, filters, aggregations |
+| **Power BI** | Interactive dashboards and visual reporting |
+| **Python** | Data wrangling and analysis using Pandas |
 
-* Data Entry
-* Attention to Detail
-* Critical Thinking & Problem Solving
-* Data Visualization
-* Data Analysis & Interpretation
-* Time Management
-* Communication & Presentation Skills
-* Team Collaboration
-* Project Management
-* Ability to work remotely
+---
+
+### 🎨 Graphic Design
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+| Skill | What I Do With It |
+|---|---|
+| **Canva** | Social media graphics, presentations, branded content |
+| **Figma** | UI mockups, design prototypes, collaborative design |
+| **Data Visualisation Design** | Making dashboards and reports visually engaging |
+
+---
+
+## ✨ What Makes Me Stand Out
+
+> Three roles. One person. Zero handoff delays.
+
+In most teams, data entry, analysis, and design are handled by separate people. That means handoffs, miscommunication, and time lost. I cover the entire workflow:
+
+```
+📥  COLLECT    →   Accurate data entry & validation
+🔍  ANALYSE    →   SQL, Excel, Power BI & Python insights
+🎨  PRESENT    →   Clean, professional visual design
+```
+
+When you hire me, you get someone who understands data from the moment it's entered to the moment it's presented — no gaps, no silos.
 
 ---
 
 ## 📂 Featured Projects
 
-### 📊 Data ENTRY Portfolio
-Explore my data entry projects.
+> 🚧 Projects are being added — check back soon!
 
-**Projects include:**
-
-* CSV Data cleaning
-* CRM Migration
-* Web search list (Web Scraping)
-* Invoice Entry
-* Product Catalog
-* Audio Transcription
-
-### 📊 Data Analytics Portfolio
-Explore my analytics projects, dashboards, and business insights.
-
-**Projects include:**
-
-* Sales Performance Dashboard
-* Netflix User Analysis
-* Employee Payroll Analysis
-* Excel Dashboard Projects
-* Business Intelligence Reports
-
-### 🎨 Graphic Design Portfolio
-
-A collection of branding, marketing, and creative design projects.
-
-**Projects include:**
-
-* Brand Identity Design
-* Social Media Campaigns
-* Marketing Materials
-* YouTube Thumbnails
-* Presentation Designs
-* Book Cover Designs
+| Project | Description | Tools Used |
+|---|---|---|
+| 🔜 Sales Performance Dashboard | Monthly KPI tracking with visual reporting | Power BI, Excel |
+| 🔜 Customer Data Cleanup | Standardised and deduplicated 10,000+ records | Excel, |
+| 🔜 Branded Data Report | Designed a visual annual report from raw data | Canva, Illustrator, Excel |
+| 🔜 Inventory Trend Analysis | Identified overstock patterns for cost savings | SQL, Power BI |
 
 ---
 
-## 🎯 Current Goals
+## 📈 GitHub Stats
 
-✅ Build a strong Data Analytics Portfolio
+<div align="center">
 
-✅ Master SQL and Power BI
+![Peniel-victory's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=calm&hide_border=true&title_color=0A66C2&icon_color=F2C811)
 
-✅ Secure remote Data Analytics / Graphic Design opportunities
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=calm&hide_border=true&title_color=0A66C2)
 
-✅ Create impactful digital products and businesses
-
-✅ Continue growing as a creator and entrepreneur
+</div>
 
 ---
 
-## 📈 GitHub Journey
+## 🤝 Open to Opportunities
 
-I am documenting my learning journey in:
+I'm actively seeking roles in **data entry**, **data analysis**, **graphic design**, or any position where all three skills come together. If you're building a team that values accuracy, insight, and good communication — let's talk.
 
-* Data Analytics
-* Data Visualization
-* Business Intelligence
-* Graphic Design
+<div align="center">
 
-Every project here represents growth, learning, and practical problem-solving.
+📧 **achigilipeniel24@gmail.com.com** &nbsp;|&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/peniel-victory-silas-022237179)** &nbsp;|&nbsp; 🌍 **Abuja, Nigeria**
 
 ---
 
-## 🤝 Let's Connect
+*"Good data tells the truth. Good design makes people listen."*
 
-📧 Email: [achigilipeniel24@gmail.com](mailto:achigilipeniel24@gmail.com)
-
-💼 LinkedIn: [www.linkedin.com/in/peniel-victory-silas-022237179](http://www.linkedin.com/in/peniel-victory-silas-022237179)
-
-🐙 GitHub: https://github.com/phenomenalpeniel
-
-📸 Instagram: https://instagram.com/phenomenalpeniel
-
-📘 Facebook: https://www.facebook.com/profile.php?id=61573708205452
-
----
-
-## ⚡ Personal Motto
-
-*"Excellence is not an event; it is a habit of continuous growth."*
-
-⭐ Feel free to explore my repositories, follow my journey, and connect with me!
-
-
+</div>
