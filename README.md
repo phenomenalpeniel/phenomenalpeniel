@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Peniel-victory Silas
+# 👋 Hello, I'm Peniel.
 
 ### Data Entry Specialist · Data Analyst · Graphic Designer
 
@@ -17,13 +17,10 @@
 
 I'm a triple-threat professional who works across the full data and design pipeline:
 
-- 🗂️ **Data Entry Specialist** — I ensure data goes in right the first time. Accurate, organised, and validated.
-- 📊 **Entry-Level Data Analyst** — I dig into data to find the trends, patterns, and insights that drive smarter decisions.
-- 🎨 **Graphic Designer** — I turn those insights into visuals that are clear, compelling, and professionally presented.
+- 🗂️ **Data Entry Specialist** : I ensure data goes in right the first time. Accurate, organised, and validated.
+- 📊 **Entry-Level Data Analyst** : I dig into data to find the trends, patterns, and insights that drive smarter decisions.
+- 🎨 **Graphic Designer** : I turn those insights into visuals that are clear, compelling, and professionally presented.
 
-Most professionals hand you raw numbers or a pretty graphic. I deliver **the full picture**, from clean data to polished presentation.
-
-- 📍 Based in **Abuja, Nigeria**
 - 🌐 Open to **remote, or hybrid** opportunities
 - 📈 Currently growing in **Python for data analysis**
 - 🤝 Open to collaborations, freelance work, and full-time roles
