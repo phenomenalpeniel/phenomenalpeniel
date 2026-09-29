@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Peniel.
 
-### Data Entry Specialist · Data Analyst · Graphic Designer
+### Data Entry Specialist · Data Analyst · Graphic Designer & Vibe-Coder
 
 *I collect it, I analyse it & I make it look good.*
 
@@ -15,7 +15,7 @@
 
 ## 🙋 About Me
 
-I'm a triple-threat professional who works across the full data and design pipeline:
+I'm just a phenomenal girl who works across the full data and design pipeline:
 
 - 🗂️ **Data Entry Specialist** : I ensure data goes in right the first time. Accurate, organised, and validated.
 - 📊 **Entry-Level Data Analyst** : I dig into data to find the trends, patterns, and insights that drive smarter decisions.
