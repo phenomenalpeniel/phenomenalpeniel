@@ -82,7 +82,7 @@ In most teams, data entry, analysis, and design are handled by separate people. 
 🎨  PRESENT    →   Clean, professional visual design
 ```
 
-When you hire me, you get someone who understands data from the moment it's entered to the moment it's presented, no gaps, no silos.
+When you hire me, you get someone who understands data from the moment it's entered to the moment it's presented.
 
 ---
 
